@@ -1,0 +1,65 @@
+body {
+  background-color: #333;
+  color: #fff;
+  margin: 0;
+}
+
+body .navbar {
+  border-bottom: 3px solid #008D6C;
+  opacity: 0.8;
+}
+
+body header {
+  background: url("../img/city.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-width: 300px;
+}
+
+body header .dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+body header .dark-overlay .home-inner {
+  padding-top: 150px;
+}
+
+body header .dark-overlay .home-inner .fas {
+  color: #008D6C;
+  background-color: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+body header .dark-overlay .home-inner .card-form {
+  opacity: 0.8;
+  max-width: 500px;
+
+}
+
+body #exploreconnect .fas {
+  
+  color: #fff;
+  background-color: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+body #createpassion .fas {
+  color: #008D6C;
+  background-color: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+body #sharecreate .fas {
+  color: #fff;
+  background-color: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+/*# sourceMappingURL=style.css.map */
